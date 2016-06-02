@@ -1,1 +1,1 @@
-![images](https://github.com/3337flower/GuitarShop2/tree/master/Image)<br/>
+![images](https://raw.githubusercontent.com/3337flower/GuitarShop2/master/Image/guitar2.PNG)<br/>
